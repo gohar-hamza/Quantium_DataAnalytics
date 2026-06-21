@@ -21,7 +21,7 @@ The dataset contains customer demographic information, life stage classification
 * Exploratory Data Analysis (EDA)
 * Customer Segmentation Analysis
 * Spending Tier Distribution Analysis
-* Business Insight Generation
+* Business Insight Generation 
 
 ## Key Findings
 
