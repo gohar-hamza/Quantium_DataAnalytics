@@ -12,7 +12,7 @@ This project explores customer purchasing behavior across different customer seg
 * Generate data-driven business recommendations.
 
 ## Dataset
-
+ 
 The dataset contains customer demographic information, life stage classifications, and spending segment data used to analyze purchasing trends and customer preferences.
 
 ## Analysis Performed
