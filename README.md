@@ -9,7 +9,7 @@ This project explores customer purchasing behavior across different customer seg
 * Understand customer demographics and purchasing behavior.
 * Analyze spending patterns across Premium, Mainstream, and Budget segments.
 * Identify key customer groups driving sales performance.
-* Generate data-driven business recommendations.
+* Generate data-driven business recommendations. 
 
 ## Dataset
  
