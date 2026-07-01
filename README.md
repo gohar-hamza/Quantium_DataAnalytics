@@ -15,7 +15,7 @@ This project explores customer purchasing behavior across different customer seg
  
 The dataset contains customer demographic information, life stage classifications, and spending segment data used to analyze purchasing trends and customer preferences.
 
-## Analysis Performed
+## Analysis Performed      
 
 * Data Cleaning and Preprocessing
 * Exploratory Data Analysis (EDA)
